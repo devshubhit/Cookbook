@@ -51,11 +51,3 @@ To debug the Blazor application follow the following steps:
 3. Press `Alt+Shift+D` to open the debug window
     1. If this doesn't work, make sure your extensions aren't using the shortcut itself
 4. In the sources tab you can see the `.dll` files where you can place breakpoints
-
-For more info see: https://blazor.net/docs/debugging.html
-
-## Links
-
-* Blazor: https://blazor.net/
-* ASP.Net Core: https://www.asp.net/core
-* EF Core: https://docs.microsoft.com/en-us/ef/core/
